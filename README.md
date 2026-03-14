@@ -5,7 +5,7 @@ AI-Powered Sales Insights — upload your sales CSV/Excel and get instant recomm
 
 ---
 
-## ⚡ Quick Start (VS Code / Localhost)
+## Quick Start (VS Code / Localhost)
 
 ### Step 1 — Install dependencies
 ```bash
