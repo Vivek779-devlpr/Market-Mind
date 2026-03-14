@@ -1,3 +1,4 @@
+# MarketMind 
 # SalesAI Analyzer 
 
 AI-Powered Sales Insights — upload your sales CSV/Excel and get instant recommendations to boost revenue.
